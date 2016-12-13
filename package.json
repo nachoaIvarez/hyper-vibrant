@@ -1,0 +1,8 @@
+{
+  "name": "hyper-vibrant",
+  "version": "0.0.1",
+  "description": "Vibrantly snazzy Hyper theme",
+  "main": "index.js",
+  "author": "Nacho Álvarez",
+  "license": "MIT"
+}
